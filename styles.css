@@ -1,0 +1,17 @@
+.mi-boton{
+    background-color: brown;
+
+}
+.titulo{
+    color: brown;
+ 
+}
+.imagenes-card{
+    width: 360px;
+    height: 300px; 
+}
+.card :hover{
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
